@@ -65,6 +65,11 @@ credits: 'This website is built upon Freelancer, which is a free to use, open so
 markdown: kramdown
 permalink: pretty
 
+# About
+about: 
+  p1: CoinCloi is all about managing your money smarter. Our app, Cashflow, lets you see your financial picture clearly by tracking your income, expenses, assets, and liabilities. 
+  p2: What sets Cashflow apart is its use of ideas from 'Rich Dad Poor Dad', showing how passive income covering expenses can lead to financial freedom. It highlights your progress toward financial freedom, keeping you motivated and focused.
+
 #for posts
 defaults:
   - scope:
