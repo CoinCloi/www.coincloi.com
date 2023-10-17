@@ -1,11 +1,7 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
+img: cashflow.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Cashflow is the movement of money, particularly the pattern of income and expenses that determine whether you are earning more than you are spending. Positive cash flow is when your income exceeds your expenses, which is seen as a key to financial prosperity.
 ---
